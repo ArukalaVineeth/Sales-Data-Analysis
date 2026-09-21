@@ -21,7 +21,7 @@ This is a guided Power BI project completed as part of my learning and developme
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshots/dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 ## Project File
 
