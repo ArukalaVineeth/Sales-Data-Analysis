@@ -23,6 +23,14 @@ This is a guided Power BI project completed as part of my learning and developme
 
 ![Sales Dashboard](dashboard.png)
 
+## Key Insights
+
+- Total sales of approximately 103K were recorded across 100 orders and 12 customers.
+- Dell XPS 15 generated the highest product-level sales at approximately 24.5K.
+- Laptops contributed the largest share of total sales at approximately 51%.
+- Sales fluctuated over the analyzed period, with several noticeable peaks in monthly performance.
+
+
 ## Project File
 
 The Power BI (.pbix) project file is included in this repository.
